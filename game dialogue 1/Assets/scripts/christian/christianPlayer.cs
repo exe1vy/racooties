@@ -22,6 +22,8 @@ public class christianPlayer : MonoBehaviour
     void Start()
     {
         ringSwitch = 0;
+        PlayerPrefs.SetInt("ringcollected", ringSwitch);
+        PlayerPrefs.Save();
         connorMovements.SetBool("Idle", true);
         hpRef.setStartHP();
     }

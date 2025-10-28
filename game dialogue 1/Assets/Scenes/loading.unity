@@ -1689,7 +1689,6 @@ GameObject:
   - component: {fileID: 1637674605}
   - component: {fileID: 1637674604}
   - component: {fileID: 1637674603}
-  - component: {fileID: 1637674602}
   - component: {fileID: 1637674601}
   - component: {fileID: 1637674600}
   - component: {fileID: 1637674599}
@@ -1810,26 +1809,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.16875705, y: 0.22796527}
   m_EdgeRadius: 0
---- !u!114 &1637674602
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1637674597}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e4a939659da046e7a1c051415f56d47, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  theSauce: {fileID: 103461810}
-  hurtSound: {fileID: 8300000, guid: c0ff1449ab9e34d1d8970dad64d34680, type: 3}
-  health: 10
-  connorMovements: {fileID: 1637674600}
-  hurtAnimator: {fileID: 2086475812}
-  hpRef: {fileID: 818826242}
-  ringSwitch: 0
 --- !u!114 &1637674603
 MonoBehaviour:
   m_ObjectHideFlags: 0
