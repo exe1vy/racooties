@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 3ef346c2c76b17740abc9ec35b018ff7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -905347126563286025
+    second: FinishedTileSet_0
+  - first:
+      213: -1162337884812872497
+    second: FinishedTileSet_1
+  - first:
+      213: 4192042409490796861
+    second: FinishedTileSet_2
+  - first:
+      213: -1849804973403473455
+    second: FinishedTileSet_3
+  - first:
+      213: -65758786779333899
+    second: FinishedTileSet_4
+  - first:
+      213: -6685728674658467883
+    second: FinishedTileSet_5
+  - first:
+      213: -4963427818438725673
+    second: FinishedTileSet_6
+  - first:
+      213: -254353952981532213
+    second: FinishedTileSet_7
+  - first:
+      213: -5194576824137779355
+    second: FinishedTileSet_8
+  - first:
+      213: 8196293093087391994
+    second: FinishedTileSet_9
+  - first:
+      213: 6222933232616232662
+    second: FinishedTileSet_10
+  - first:
+      213: -2765514490512754584
+    second: FinishedTileSet_11
+  - first:
+      213: -6860151915753217901
+    second: FinishedTileSet_12
+  - first:
+      213: -1321336530951336840
+    second: FinishedTileSet_13
+  - first:
+      213: 5809952997872278598
+    second: FinishedTileSet_14
+  - first:
+      213: 3593712717185461626
+    second: FinishedTileSet_15
+  - first:
+      213: 8885871394500340412
+    second: FinishedTileSet_16
+  - first:
+      213: -5964347435691496585
+    second: FinishedTileSet_17
+  - first:
+      213: -5973752942320141572
+    second: FinishedTileSet_18
+  - first:
+      213: 3654837247760625417
+    second: FinishedTileSet_19
+  - first:
+      213: 4959422220467919280
+    second: FinishedTileSet_20
+  - first:
+      213: -5538523947116776812
+    second: FinishedTileSet_21
+  - first:
+      213: 4457276036580868107
+    second: FinishedTileSet_22
+  - first:
+      213: -5390341749084597780
+    second: FinishedTileSet_23
+  - first:
+      213: 9082393541851465938
+    second: FinishedTileSet_24
+  - first:
+      213: -3718818182050278306
+    second: FinishedTileSet_25
+  - first:
+      213: 6293757559807829596
+    second: FinishedTileSet_26
+  - first:
+      213: 3583851247205911218
+    second: FinishedTileSet_27
+  - first:
+      213: 7169801447233001819
+    second: FinishedTileSet_28
+  - first:
+      213: -5756889678168519316
+    second: FinishedTileSet_29
+  - first:
+      213: -4657737072564303132
+    second: FinishedTileSet_30
+  - first:
+      213: 4109277615844601842
+    second: FinishedTileSet_31
+  - first:
+      213: -8947924249019593791
+    second: FinishedTileSet_32
+  - first:
+      213: 7475484073822370484
+    second: FinishedTileSet_33
+  - first:
+      213: -353231049059574814
+    second: FinishedTileSet_34
+  - first:
+      213: 6659398990245861007
+    second: FinishedTileSet_35
+  - first:
+      213: -2541288330773172917
+    second: FinishedTileSet_36
+  - first:
+      213: -4514670174827999708
+    second: FinishedTileSet_37
+  - first:
+      213: -5006660336652724129
+    second: FinishedTileSet_38
+  - first:
+      213: -4951532707537378852
+    second: FinishedTileSet_39
+  - first:
+      213: -1564251824547610935
+    second: FinishedTileSet_40
+  - first:
+      213: 198060527860293577
+    second: FinishedTileSet_41
+  - first:
+      213: 6508860264872539726
+    second: FinishedTileSet_42
+  - first:
+      213: 1303817582921880871
+    second: FinishedTileSet_43
+  - first:
+      213: 1976090760052449301
+    second: FinishedTileSet_44
+  - first:
+      213: -7210100208816069870
+    second: FinishedTileSet_45
+  - first:
+      213: -5047205219360385197
+    second: FinishedTileSet_46
+  - first:
+      213: 7637886869515017161
+    second: FinishedTileSet_47
+  - first:
+      213: 7997733317600020654
+    second: FinishedTileSet_48
+  - first:
+      213: 5354708974941133663
+    second: FinishedTileSet_49
+  - first:
+      213: 6653455428515379428
+    second: FinishedTileSet_50
+  - first:
+      213: -5789547272951332538
+    second: FinishedTileSet_51
+  - first:
+      213: 8477506463320202379
+    second: FinishedTileSet_52
+  - first:
+      213: 5846913116255653083
+    second: FinishedTileSet_53
+  - first:
+      213: 7800172649004018471
+    second: FinishedTileSet_54
+  - first:
+      213: -1089722175775096105
+    second: FinishedTileSet_55
+  - first:
+      213: 501256490265365119
+    second: FinishedTileSet_56
+  - first:
+      213: -2790867327029338840
+    second: FinishedTileSet_57
+  - first:
+      213: -2503089110099695269
+    second: FinishedTileSet_58
+  - first:
+      213: -922445746944254297
+    second: FinishedTileSet_59
+  - first:
+      213: -5311954680158710507
+    second: FinishedTileSet_60
+  - first:
+      213: -2233820495465008253
+    second: FinishedTileSet_61
+  - first:
+      213: -8876501882906875357
+    second: FinishedTileSet_62
+  - first:
+      213: 6518508702280053169
+    second: FinishedTileSet_63
+  - first:
+      213: 9056072567927825646
+    second: FinishedTileSet_64
+  - first:
+      213: 9211216662295694854
+    second: FinishedTileSet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinishedTileSet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 75
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f356cac59f8f63f0800000000000000
+      internalID: -905347126563286025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 75
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ffb22adb8edfe0800000000000000
+      internalID: -1162337884812872497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31521d6c502d2a30800000000000000
+      internalID: 4192042409490796861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9f8886d2c2456e0800000000000000
+      internalID: -1849804973403473455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 75
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb65261358733a0800000000000000
+      internalID: -6685728674658467883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 74
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfeaad42bc5e1bb0800000000000000
+      internalID: -4963427818438725673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 53
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c1596d6a587cf0800000000000000
+      internalID: -254353952981532213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5677ac686e729e7b0800000000000000
+      internalID: -5194576824137779355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 54
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0367074251fb170800000000000000
+      internalID: 8196293093087391994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 74
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d65017fdcc4c5650800000000000000
+      internalID: 6222933232616232662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da4ac0dae6fd130800000000000000
+      internalID: 3593712717185461626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 49
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6ff434f4f05b70800000000000000
+      internalID: 8885871394500340412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 49
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ba8929b916a3da0800000000000000
+      internalID: -5964347435691496585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4923c1080d53323b0800000000000000
+      internalID: -5538523947116776812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 77
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00834a80fc6bdd30800000000000000
+      internalID: 4457276036580868107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1dadb0db8a135b0800000000000000
+      internalID: -5390341749084597780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8cb544ec42b0e70800000000000000
+      internalID: 9082393541851465938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 51
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5411aa019a146cc0800000000000000
+      internalID: -3718818182050278306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 54
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5666c6a72be75750800000000000000
+      internalID: 6293757559807829596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 49
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba8c85a8b56cb130800000000000000
+      internalID: 3583851247205911218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 53
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b599764dd60408360800000000000000
+      internalID: 7169801447233001819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 53
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffa1ef3836170930800000000000000
+      internalID: 4109277615844601842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_33
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 74
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab54888214eb760800000000000000
+      internalID: 7475484073822370484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 51
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e835f456ba851c0800000000000000
+      internalID: -4514670174827999708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58d6c243f4c48ab0800000000000000
+      internalID: -5006660336652724129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a181ac3f984bb0800000000000000
+      internalID: -4951532707537378852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 4
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce359ad049aa4ae0800000000000000
+      internalID: -1564251824547610935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf932f2007afb200800000000000000
+      internalID: 198060527860293577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 27
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46f16ceced145a50800000000000000
+      internalID: 6508860264872539726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 23
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb101cf3a93ff960800000000000000
+      internalID: 7637886869515017161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 27
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b56f6317fbf4a40800000000000000
+      internalID: 5354708974941133663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 53
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8bd81f572d55c50800000000000000
+      internalID: 6653455428515379428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_51
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 26
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6418769fd6567afa0800000000000000
+      internalID: -5789547272951332538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 27
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c574f663726a570800000000000000
+      internalID: 8477506463320202379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc8dfe3088642150800000000000000
+      internalID: 5846913116255653083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_54
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b2a9a72b7cf3c60800000000000000
+      internalID: 7800172649004018471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d24f09647780e0f0800000000000000
+      internalID: -1089722175775096105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 5
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38332db3810eff0e0800000000000000
+      internalID: -2233820495465008253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_62
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aef35319450d480800000000000000
+      internalID: -8876501882906875357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f1b0d025667a50800000000000000
+      internalID: 6518508702280053169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_64
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46f77f402adad70800000000000000
+      internalID: 9056072567927825646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishedTileSet_65
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e4b4150c0d4df70800000000000000
+      internalID: 9211216662295694854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2801aff75584d544991586b116b6d915
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FinishedTileSet_0: -905347126563286025
+      FinishedTileSet_1: -1162337884812872497
+      FinishedTileSet_10: 6222933232616232662
+      FinishedTileSet_11: -2765514490512754584
+      FinishedTileSet_12: -6860151915753217901
+      FinishedTileSet_13: -1321336530951336840
+      FinishedTileSet_14: 5809952997872278598
+      FinishedTileSet_15: 3593712717185461626
+      FinishedTileSet_16: 8885871394500340412
+      FinishedTileSet_17: -5964347435691496585
+      FinishedTileSet_18: -5973752942320141572
+      FinishedTileSet_19: 3654837247760625417
+      FinishedTileSet_2: 4192042409490796861
+      FinishedTileSet_20: 4959422220467919280
+      FinishedTileSet_21: -5538523947116776812
+      FinishedTileSet_22: 4457276036580868107
+      FinishedTileSet_23: -5390341749084597780
+      FinishedTileSet_24: 9082393541851465938
+      FinishedTileSet_25: -3718818182050278306
+      FinishedTileSet_26: 6293757559807829596
+      FinishedTileSet_27: 3583851247205911218
+      FinishedTileSet_28: 7169801447233001819
+      FinishedTileSet_29: -5756889678168519316
+      FinishedTileSet_3: -1849804973403473455
+      FinishedTileSet_30: -4657737072564303132
+      FinishedTileSet_31: 4109277615844601842
+      FinishedTileSet_32: -8947924249019593791
+      FinishedTileSet_33: 7475484073822370484
+      FinishedTileSet_34: -353231049059574814
+      FinishedTileSet_35: 6659398990245861007
+      FinishedTileSet_36: -2541288330773172917
+      FinishedTileSet_37: -4514670174827999708
+      FinishedTileSet_38: -5006660336652724129
+      FinishedTileSet_39: -4951532707537378852
+      FinishedTileSet_4: -65758786779333899
+      FinishedTileSet_40: -1564251824547610935
+      FinishedTileSet_41: 198060527860293577
+      FinishedTileSet_42: 6508860264872539726
+      FinishedTileSet_43: 1303817582921880871
+      FinishedTileSet_44: 1976090760052449301
+      FinishedTileSet_45: -7210100208816069870
+      FinishedTileSet_46: -5047205219360385197
+      FinishedTileSet_47: 7637886869515017161
+      FinishedTileSet_48: 7997733317600020654
+      FinishedTileSet_49: 5354708974941133663
+      FinishedTileSet_5: -6685728674658467883
+      FinishedTileSet_50: 6653455428515379428
+      FinishedTileSet_51: -5789547272951332538
+      FinishedTileSet_52: 8477506463320202379
+      FinishedTileSet_53: 5846913116255653083
+      FinishedTileSet_54: 7800172649004018471
+      FinishedTileSet_55: -1089722175775096105
+      FinishedTileSet_56: 501256490265365119
+      FinishedTileSet_57: -2790867327029338840
+      FinishedTileSet_58: -2503089110099695269
+      FinishedTileSet_59: -922445746944254297
+      FinishedTileSet_6: -4963427818438725673
+      FinishedTileSet_60: -5311954680158710507
+      FinishedTileSet_61: -2233820495465008253
+      FinishedTileSet_62: -8876501882906875357
+      FinishedTileSet_63: 6518508702280053169
+      FinishedTileSet_64: 9056072567927825646
+      FinishedTileSet_65: 9211216662295694854
+      FinishedTileSet_7: -254353952981532213
+      FinishedTileSet_8: -5194576824137779355
+      FinishedTileSet_9: 8196293093087391994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
