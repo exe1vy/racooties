@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: f0a3d1bbcbdcb3b46b398d71aa5b102a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1934369639288359627
+    second: ConnorBattle_sheet_0
+  - first:
+      213: -3678679782513020118
+    second: ConnorBattle_sheet_1
+  - first:
+      213: -6183550705626120002
+    second: ConnorBattle_sheet_2
+  - first:
+      213: 6762595237381116093
+    second: ConnorBattle_sheet_3
+  - first:
+      213: 5227471030141482356
+    second: ConnorBattle_sheet_4
+  - first:
+      213: 6523220066406857776
+    second: ConnorBattle_sheet_5
+  - first:
+      213: -5367900736718517748
+    second: ConnorBattle_sheet_6
+  - first:
+      213: -3317407831176208531
+    second: ConnorBattle_sheet_7
+  - first:
+      213: 5981022687877494541
+    second: ConnorBattle_sheet_8
+  - first:
+      213: -7034823755514555763
+    second: ConnorBattle_sheet_9
+  - first:
+      213: 2526858962337908578
+    second: ConnorBattle_sheet_10
+  - first:
+      213: 5050406425799644795
+    second: ConnorBattle_sheet_11
+  - first:
+      213: -4780848962825608973
+    second: ConnorBattle_sheet_12
+  - first:
+      213: -1574402075796892070
+    second: ConnorBattle_sheet_13
+  - first:
+      213: -1649995686912816700
+    second: ConnorBattle_sheet_14
+  - first:
+      213: -4866782051079768721
+    second: ConnorBattle_sheet_15
+  - first:
+      213: -6173622317827053685
+    second: ConnorBattle_sheet_16
+  - first:
+      213: 4055578912895625936
+    second: ConnorBattle_sheet_17
+  - first:
+      213: -3533202879476482462
+    second: ConnorBattle_sheet_18
+  - first:
+      213: -665226832043971588
+    second: ConnorBattle_sheet_19
+  - first:
+      213: -5137227693105676934
+    second: ConnorBattle_sheet_20
+  - first:
+      213: 2918138978188667414
+    second: ConnorBattle_sheet_21
+  - first:
+      213: 2949047642937127435
+    second: ConnorBattle_sheet_22
+  - first:
+      213: -6223747226827313501
+    second: ConnorBattle_sheet_23
+  - first:
+      213: 8576123223331818073
+    second: ConnorBattle_sheet_24
+  - first:
+      213: 5593199831533669035
+    second: ConnorBattle_sheet_25
+  - first:
+      213: 5107208045184924790
+    second: ConnorBattle_sheet_26
+  - first:
+      213: 4473575382865946787
+    second: ConnorBattle_sheet_27
+  - first:
+      213: 4671768974188300827
+    second: ConnorBattle_sheet_28
+  - first:
+      213: -1770198206426173763
+    second: ConnorBattle_sheet_29
+  - first:
+      213: -897928125578083755
+    second: ConnorBattle_sheet_30
+  - first:
+      213: 6516058245082614021
+    second: ConnorBattle_sheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535bae1df0db725e0800000000000000
+      internalID: -1934369639288359627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2376e07a34b2fcc0800000000000000
+      internalID: -3678679782513020118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb00a84256d9f2aa0800000000000000
+      internalID: -6183550705626120002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db099d3e98099dd50800000000000000
+      internalID: 6762595237381116093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4757a31a435bb8840800000000000000
+      internalID: 5227471030141482356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c71e1c612278a50800000000000000
+      internalID: 6523220066406857776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ac55668b26185b0800000000000000
+      internalID: -5367900736718517748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f94a7672336f1d0800000000000000
+      internalID: -3317407831176208531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d077d70227cd00350800000000000000
+      internalID: 5981022687877494541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82531301194f5e90800000000000000
+      internalID: -7034823755514555763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c9af96d4311320800000000000000
+      internalID: 2526858962337908578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b765325d2e5a61640800000000000000
+      internalID: 5050406425799644795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f02cf5c23307adb0800000000000000
+      internalID: -4780848962825608973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a561d7257a9962ae0800000000000000
+      internalID: -1574402075796892070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c982a03aa90a19e0800000000000000
+      internalID: -1649995686912816700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b4268287b57cb0800000000000000
+      internalID: -4866782051079768721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ae701633e25aa0800000000000000
+      internalID: -6173622317827053685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnorBattle_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da65bda88f484830800000000000000
+      internalID: 4055578912895625936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: debd43ea52f590f4985d64a619fc213e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ConnorBattle_sheet_0: -1934369639288359627
+      ConnorBattle_sheet_1: -3678679782513020118
+      ConnorBattle_sheet_10: 2526858962337908578
+      ConnorBattle_sheet_11: 5050406425799644795
+      ConnorBattle_sheet_12: -4780848962825608973
+      ConnorBattle_sheet_13: -1574402075796892070
+      ConnorBattle_sheet_14: -1649995686912816700
+      ConnorBattle_sheet_15: -4866782051079768721
+      ConnorBattle_sheet_16: -6173622317827053685
+      ConnorBattle_sheet_17: 4055578912895625936
+      ConnorBattle_sheet_2: -6183550705626120002
+      ConnorBattle_sheet_3: 6762595237381116093
+      ConnorBattle_sheet_4: 5227471030141482356
+      ConnorBattle_sheet_5: 6523220066406857776
+      ConnorBattle_sheet_6: -5367900736718517748
+      ConnorBattle_sheet_7: -3317407831176208531
+      ConnorBattle_sheet_8: 5981022687877494541
+      ConnorBattle_sheet_9: -7034823755514555763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
